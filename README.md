@@ -1,2 +1,3 @@
 # Portfolio-Project
-🚀This is a dummy Portfolio website
+
+## Explore the live Project: [Click Here](https://naitikjpatel.github.io/Portfolio-Project/)
